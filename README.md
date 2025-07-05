@@ -35,42 +35,52 @@ Two parallel approaches explored:
 
 ### Prompt
 ```
-Me: tumi porcho?
-Her:
+Me: Ki korchhis re?
 ```
 
 
 ### LSTM Output
 ```
-Her: ki krbo
-Her: ki krbo
-Her: ki krbo
+Her: 🙂🙂🙂🙂byoum
+Her: amdr
+Me: Mondr kore ni
+Me: upch ker 6e n
+Her: kal lab lag6er
+Herr: saruu
+Her: Kame jbo onek diye
+Me: Oito hoye6lin?
+Her: Amke
+Her: Miss
+Me: Ami aubha
+Her: poc korechhis?
+Me: Ei nijekh
+Me: 🤣🤣🤣🤣...j to join oble
+Her: au kisr
+Her: Bhai to jbi kalke e krbe softa ta
+Me: indic e to bollo
+M
 ```
 
 
 ### GPT-2 Output
 ```
-Her: ha porchi. Tui bol ki korchish?
+Her: korchis
 ```
 
 ## 🚀 How to Run (LSTM Version)
 
 1. Clone the repo:
    ```bash
-   https://github.com/Debkumar-Baksi/Building-a-Personalized-Chatbot-LSTM-vs.-Fine-Tuned-LLM-GPT-2-.git
-   cd chat-with-best-friend
+   https://github.com/Debkumar-Baksi/Building-a-Personalized-Chatbot-LSTM-vs.-Fine-Tuned-LLM-GPT-2.git
+   cd Building-a-Personalized-Chatbot-LSTM-vs.-Fine-Tuned-LLM-GPT-2
 2. Install requirements:
 
 ```
 pip install torch tqdm
 ```
-3. Train:
+3. Run:
 ```
-python train_lstm.py
-```
-4. Generate:
-```
-python generate_lstm.py
+python clone_friend.ipynb
 ```
 ## 💡 Future Work
 Word-level LSTM with embeddings
