@@ -16,7 +16,7 @@ Two parallel approaches explored:
 
 ## 📖 Read the Technical Comparison Article
 
-👉 [**LSTM vs GPT-2 for Personalized Chatbots** on LinkedIn](https://www.linkedin.com/in/debkumar-baksi)  
+👉 [**LSTM vs GPT-2 for Personalized Chatbots** on LinkedIn](https://www.linkedin.com/posts/debkumar-baksi-269738279_machinelearning-nlp-llm-activity-7347277817748836352-ulfv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEPrDnEBVjAz3BltRhVC2Ye2Hln8TZTZw70)  
 (*Replace the link with the actual article URL when published*)
 
 ## 🛠️ Tech Stack
@@ -29,18 +29,6 @@ Two parallel approaches explored:
 | Training       | CPU-only, ~30–300 mins           |
 | Language Style | Bengali in Roman script          |
 | Input Format   | `Me: ...` + `Her: ...`           |
-
-## 📂 Project Structure
-
-├── data/
-│ └── whatsapp_chat.txt # Raw exported chat
-│ └── new_chat_data.txt # Cleaned & formatted
-├── lstm_model.py # Char-level LSTM model
-├── train_lstm.py # LSTM training script
-├── generate_lstm.py # LSTM-based generator
-├── gpt2_finetune.py # GPT-2 fine-tuning script
-├── chat_lstm_model.pth # Saved LSTM weights
-├── README.md
 
 
 ## 🧪 Example Output
