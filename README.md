@@ -69,7 +69,7 @@ Her: ha porchi. Tui bol ki korchish?
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/chat-with-best-friend.git
+   https://github.com/Debkumar-Baksi/Building-a-Personalized-Chatbot-LSTM-vs.-Fine-Tuned-LLM-GPT-2-.git
    cd chat-with-best-friend
 2. Install requirements:
 
