@@ -17,7 +17,7 @@ Two parallel approaches explored:
 ## 📖 Read the Technical Comparison Article
 
 👉 [**LSTM vs GPT-2 for Personalized Chatbots** on LinkedIn](https://www.linkedin.com/posts/debkumar-baksi-269738279_machinelearning-nlp-llm-activity-7347277817748836352-ulfv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEPrDnEBVjAz3BltRhVC2Ye2Hln8TZTZw70)  
-(*Replace the link with the actual article URL when published*)
+
 
 ## 🛠️ Tech Stack
 
